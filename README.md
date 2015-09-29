@@ -1,5 +1,5 @@
 # VPN
-[vpn-user-portal](https://github.com/eduVPN/vpn-user-portal) since version 1.0.3, not released yet, 
+[vpn-user-portal](https://github.com/eduVPN/vpn-user-portal) since version 1.0.3, 
 supports Basic authentication to obtain configurations.
 
 ```
