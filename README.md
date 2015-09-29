@@ -11,3 +11,5 @@ $ curl -u foo:bar http://localhost/vpn-user-portal/config/agent007/ovpn
 ```
 
 Also supported is retrieving a ZIP version of the configuration by specifying `/zip` instead of `/ovpn`.
+
+Packages for RHEL/CentOS/Fedora can be obtained in [this](https://copr.fedoraproject.org/coprs/fkooman/vpn-management/) COPR repository.
